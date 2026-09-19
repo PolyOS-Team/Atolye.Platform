@@ -9,7 +9,7 @@
     "dev": "tsx watch index.ts"
   },
   "dependencies": {
-    "adm-zip": "^0.6.0",
+    "adm-zip": "^0.6.1",
     "archiver": "^7.0.1",
     "base64url": "^3.0.1",
     "bonjour-service": "^1.2.1",
